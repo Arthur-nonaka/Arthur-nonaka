@@ -12,11 +12,14 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC**
 
 ## Tecnologias & Experiência
 
-- **JavaScript / TypeScript** ![JS](https://progress-bar.dev/85/)  
-- **React** ![React](https://progress-bar.dev/80/)  
-- **Node.js** ![Node](https://progress-bar.dev/75/)  
-- **Next.js** ![Next](https://progress-bar.dev/70/)  
-- **Electron** ![Electron](https://progress-bar.dev/65/)  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="50" height="50"/>
+</p>
 
 ---
 
