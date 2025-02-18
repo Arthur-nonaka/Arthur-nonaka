@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou Arthur Nonaka Oda!
 
-<!--
-**Arthur-nonaka/Arthur-nonaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arthur-nonakaa&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-nonaka&layout=compact&theme=radical)
+
+---
+
+## Tecnologias & Experiência
+
+- **JavaScript / TypeScript** ![JS](https://progress-bar.dev/85/)  
+- **React** ![React](https://progress-bar.dev/80/)  
+- **Node.js** ![Node](https://progress-bar.dev/75/)  
+- **Next.js** ![Next](https://progress-bar.dev/70/)  
+- **Electron** ![Electron](https://progress-bar.dev/65/)  
+
+---
+
+## Contato
+📧 Email: nonakaodaarthur@gmail.com
+💼 LinkedIn: [Seu Perfil](https://www.linkedin.com/in/arthur-nonaka-868488292/)  
