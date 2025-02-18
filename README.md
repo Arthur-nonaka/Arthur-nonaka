@@ -5,7 +5,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC**
 ---
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arthur-nonakaa&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arthur-nonaka&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-nonaka&layout=compact&theme=radical)
 
 ---
