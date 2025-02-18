@@ -24,7 +24,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC**
 ---
 
 ## Contatos
--
-📧 Email: nonakaodaarthur@gmail.com
--
-💼 LinkedIn: [Seu Perfil](https://www.linkedin.com/in/arthur-nonaka-868488292/)  
+
+- 📧 Email: nonakaodaarthur@gmail.com
+- 💼 LinkedIn: [Seu Perfil](https://www.linkedin.com/in/arthur-nonaka-868488292/)  
