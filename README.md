@@ -18,11 +18,12 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
 </p>
 
 ---
 
 ## Contato
 📧 Email: nonakaodaarthur@gmail.com
+--
 💼 LinkedIn: [Seu Perfil](https://www.linkedin.com/in/arthur-nonaka-868488292/)  
